@@ -1,3 +1,3 @@
 # bubzieBirfday
-  A cute program to make a heppi birfday video :D
+  A program to make a cute heppi birfday video :D
   ![Alt Text](output.gif)
